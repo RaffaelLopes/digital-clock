@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  color: gold;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 100px;
+}
+
+#calendar {
+  font-size: 30px;
+  padding-bottom: 50px;
+  color: silver;
+}
+
+#clock {
+  font-size: 150px;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: black;
+  color: white;
+  
+  font-size: 12px;
+}
+
+
